@@ -39,13 +39,13 @@
     {
       "id": 7,
       "name": "Puddles",
-      "isGoodDog": false,
+      "isGoodDog": true,
       "image": "https://img.purch.com/w/660/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA5Ny84OTEvb3JpZ2luYWwvd2h5LWRvZ3MtZWF0LXBvb3A="
     },
     {
       "id": 8,
       "name": "Mittens",
-      "isGoodDog": false,
+      "isGoodDog": true,
       "image": "http://evelynswinebar.com/wp-content/uploads/2018/06/dogpic.jpg"
     },
     {
